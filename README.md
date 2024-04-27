@@ -1,1 +1,1 @@
-readme pour mettre à jour le projet 
+readme : Documentation détaillé du projet étape par étape 
